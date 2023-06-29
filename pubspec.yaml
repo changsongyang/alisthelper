@@ -4,7 +4,7 @@ publish_to: 'none'
 version: 0.1.1+5
 
 environment:
-  sdk: '>=3.1.0-38.0.dev <4.0.0'
+  sdk: '>=3.0.5 <4.0.0'
 
 dependencies:
   flutter:
@@ -31,7 +31,7 @@ dependencies:
   # package_info_plus is a package that provides package info
   package_info_plus: ^4.0.1
   # file_picker is used to choose working dir
-  file_picker: ^5.3.1
+  file_picker: ^5.3.2
   # http is used to check upgrade
   http: ^1.1.0
   #i18n
