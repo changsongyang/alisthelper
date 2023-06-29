@@ -31,12 +31,12 @@ dependencies:
   # package_info_plus is a package that provides package info
   package_info_plus: ^4.0.1
   # file_picker is used to choose working dir
-  file_picker: ^5.2.11
+  file_picker: ^5.3.1
   # http is used to check upgrade
-  http: ^1.0.0
+  http: ^1.1.0
   #i18n
-  slang: ^3.17.0
-  slang_flutter: ^3.17.0
+  slang: ^3.19.0
+  slang_flutter: ^3.19.0
   flutter_localizations:
     sdk: flutter
 
